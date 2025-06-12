@@ -3,7 +3,7 @@ const roasts = [
   "Bro thought reporting was a skill. Spoiler: it’s not.",
   "Even the shadow pets call him ‘Lil Mod Energy’ 😂",
   "His avatar got banned for being too basic.",
-  "Naffay uses a Chromebook and thinks it’s a gaming rig.",
+  "Naffay is the kind of guy who fails the captcha more than once.",
   "He said 'I reported you' like it’s a flex 💀",
   "Naffay’s Roblox password is probably 'naffay123'.",
   "The only game he wins is Hide & Snitch.",
